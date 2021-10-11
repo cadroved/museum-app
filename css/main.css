@@ -1,0 +1,185 @@
+Body{
+	font-family: helvetica;
+	background-color: #4D4A4A;
+
+
+
+}
+
+header {
+	background-color: #F7F7F8;
+	padding-bottom: 3em;
+	margin: 0;
+    padding: 1rem;
+    font-family: 'helvetica';
+    margin-bottom: 1.2em;
+
+}
+
+header .logo
+{
+    width: 100%;
+    align-content: left;
+
+}
+
+h1 {
+	background-color: #4D4A4A;
+	padding: 1rem;
+	font-size: 2rem;
+	color: #F7F7F8;
+	font-family: helvetica;
+	margin-bottom: 1rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	color: #EE3B33;
+}
+
+h3 {
+	font-size: 1.3rem;
+	color: #EE3B33;
+
+}
+
+h4 {
+	font-size: 1.5rem;
+	padding-top: 0; 
+	padding-bottom: 2rem;
+	color: #4D4A4A;
+
+}
+
+h5 {
+	font-size: 1.5rem;
+	color: #EE3B33; 
+	padding-top: .7em; 
+	padding-left: 1em;
+
+}
+
+
+p {
+	font-size: 1.2rem;
+	color: #4D4A4A;
+	}
+
+
+.hero {
+	align-content: center;
+	background-color: #F7F7F8;
+}
+.hero img {
+	align-content: center;
+	width: 100%;
+}
+
+.featured-exhibit {
+	background-color: #F7F7F8;
+	padding: 1em;
+}
+
+.event {
+	align-content: center;
+	background-color: #F7F7F8;
+	padding: 1rem;
+
+} 
+
+.mail {
+	background-color: #F7F7F8;
+	padding: 1rem;
+
+}
+
+footer {
+	background-color: #F7F7F8;
+	padding: 1rem;
+	margin-top: 1em;
+	padding-top: 3em;
+
+}
+footer i {
+	padding: .1em;
+	padding-left: .2em;
+}
+
+.change-color {
+	color: #EE3B33;
+}
+
+#main-menu {
+	background-color: #4D4A4A; ;
+}
+#main-menu nav {
+ 	display: flex;
+ 	height: 100%;
+
+}
+
+#main-menu ul {
+ 	margin: auto 0;
+ 	padding: 0;
+ 	list-style: none;
+	padding-left: 1em;
+	padding-bottom: 0;
+	line-height: 250%;
+}
+
+
+.grid-x {
+	margin: 0;
+}
+
+hr {
+	width: 2px;
+	margin-top: 1em ;
+	margin-left: 0;
+	margin-right: auto;
+	height: 110px;
+	background-color:#666;
+	opcaity: 0.5;
+}
+
+.nav i {
+	padding-left: 2em;
+	padding-top: .1em;
+}
+h6 {
+	background-color: #4D4A4A;
+	font-size: 2.2rem;
+	color: #F7F7F8;
+	padding-bottom: .4em;
+	margin-bottom: 0;
+	padding-right: 0;
+}
+
+.exhibits {
+	background-color: #F7F7F8;
+	padding: 1rem;
+}
+
+.details {
+	background-color: #F7F7F8;
+	padding: 1rem;
+}
+
+.details img {
+   width: 100%;
+   align-items: center;
+   padding-top: 1rem;
+}
+
+.text-logo {
+	font-size: 1.5rem;
+	color: #4D4A4A;
+	font-weight: 700;
+	line-height: 1;
+}
+
+.menu a {
+	color: #4D4A4A;
+	font-size: 1.2rem;
+	line-height: 1;
+}
